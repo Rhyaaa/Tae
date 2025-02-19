@@ -1,0 +1,17 @@
+body {
+  background-color: hotpink;
+}
+
+
+.Tae2 {
+  
+  margin-left: 0px;
+  margin-top: 10%;
+  cursor: pointer;
+  width: 300px;
+  height: 400px;
+}
+
+.Tae2-class {
+  text-align: center;
+}
